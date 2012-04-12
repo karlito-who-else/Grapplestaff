@@ -1,0 +1,3 @@
+*.bbprojectd
+_examples/
+.DS_Store
